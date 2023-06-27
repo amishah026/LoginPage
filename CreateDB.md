@@ -15,3 +15,5 @@ INSERT INTO usersInfo VALUES ('programmer', '$2b$15$tTMfy.RzsrS/bIZfxLIDKemHJAPs
 INSERT INTO usersInfo VALUES ('developer', '$2b$15$Wqc7mo36K/vO3Ib372tj2u8WC.IWmZsqad2ThcStjjW2IqXVhSeXy');
 
 INSERT INTO usersInfo VALUES ('user', '$2b$15$WHwT.V.Q7cUHrYzmDwCP9eQ2KZ8VKezQS.tzr1pgc1BVVpVGHFFxK');
+
+NOTE: The passwords are hashed-> And are admin123, manager123, programmer123, developer123, and user123 respectively
